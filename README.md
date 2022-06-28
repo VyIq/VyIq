@@ -2,7 +2,7 @@
 <h3 align="center">A developer learning to code for fun.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vyiq&label=Profile%20views&color=c2ffd5&style=flat" alt="vyiq" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vyiq&label=Profile%20views&color=ffc2ce&style=flat" alt="vyiq" /> </p>
 
 - 💭 **Ask me about music.**
 - 🌱 **I'm currently learning python.**
