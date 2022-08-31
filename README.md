@@ -8,7 +8,7 @@
 - 🌱 **I'm currently learning python.**
 - ⚡ **Fun fact: I use an online IDE**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 0.o@null.net</h3>
 <p align="left">
 </p>
 
