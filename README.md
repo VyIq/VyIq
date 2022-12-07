@@ -6,7 +6,7 @@
 
 - 💭 **Ask me about music.**
 - 🌱 **I'm currently learning python.**
-- ⚡ **Fun fact: I use an online IDE**
+- ⚡ **Fun fact: Pizza is my favorite food.**
 
 <h3 align="left">Connect with me: 0.o@null.net</h3>
 <p align="left">
