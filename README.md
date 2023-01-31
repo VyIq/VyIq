@@ -1,6 +1,6 @@
-<h1 align="center">Hi , I'm VyIq</h1>
+<h1 align="center">Hello, I'm Milk!</h1>
 <h3 align="center">A developer learning to code for fun.</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/VyIq/VyIq/blob/main/pika_dance.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyiq&label=Profile%20views&color=ffc2ce&style=flat" alt="vyiq" /> </p>
 
